@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Leo, a computer scientist with an interest in Full Stack development and machine learning!
+## 👋 Hi there  
+
+I'm Leo, a computer scientist with an interest in Full Stack development and machine learning!
 
 ## ✏️ About me
 
