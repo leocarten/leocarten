@@ -10,7 +10,7 @@ I have 1 year of **professional experience** where I interned as a UI/UX develop
 
 ## 🚀 What am I currently working on?
 
-I am currently building out a mobile application called CampusCrush! CampusCrush is written in React Native, uses a Node.js API that I configured which is currently being hosted on an AWS EC2 instance. The application uses a MySQL database. My application also has a built in **neural network** that is programmed using the [brain.js](https://brain.js.org/#/) library. 
+I am currently building out a mobile application called CampusCrush! CampusCrush is written in React Native, uses a Node.js API that I configured which is currently being hosted on an AWS EC2 instance. The application uses a MySQL database. My application also has a built-in **neural network** that is programmed using the [brain.js](https://brain.js.org/#/) library. 
 
 I am very excited about this project, and I have loved developing it so far! 
 
@@ -35,3 +35,4 @@ I am very excited about this project, and I have loved developing it so far!
 ## 🤝 Connect with me!
 
 * [LinkedIn](https://www.linkedin.com/in/leo-carten-925535195/)
+* [Articles I've written](https://www.linkedin.com/in/leo-carten-925535195/recent-activity/articles/)
