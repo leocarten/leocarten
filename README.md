@@ -1,18 +1,20 @@
 ## 👋 Hi there  
 
-I'm Leo, a computer scientist with an interest in Full Stack development and machine learning!
+I'm Leo, a software engineer with an interest in Full Stack development and machine learning!
 
 ## ✏️ About me
 
-I have been programming for 5 year, both through my Bachelors degree in Computer Science (where I have earned a **3.81 GPA**), and also because of my interests outside of school. I would certainly say that majority of my knowledge has come outside of the classroom, purely driven by my curiousity and interests.
+I have been **programming for 5 years**, both through my Bachelors degree in Computer Science (where I have earned a **3.81 GPA** and also studied Mathematics), and also because of my interests outside of school. I would certainly say that majority of my knowledge has come outside of the classroom, purely driven by my curiousity and interests. I have completed many side projects in my free-time truly because software engineering is a great passion of mine.
 
-I have 1 year of **professional experience** where I interned as a UI/UX developer at Aclara Technologies. I helped build a Desktop Application which was written in Python. The goal of the Desktop App was to streamline the process for my co-workers and reduce manual labor.
+I have 1 year of **professional experience** where I interned as a UI/UX developer at Aclara Technologies. I helped build a Desktop Application which was written in Python, and uses libraries such as customtkinter to interact with various softwares and databases. The goal of the Desktop App was to streamline the process for my co-workers and reduce manual labor. On top of the Desktop application, I also performed data validation and data cleaning using Python in conjunction with SQL
 
 ## 🚀 What am I currently working on?
 
 I am currently building out a mobile application called CampusCrush! CampusCrush is written in React Native, uses a Node.js API that I configured which is currently being hosted on an AWS EC2 instance. The application uses a MySQL database. My application also has a built-in **neural network** that is programmed using the [brain.js](https://brain.js.org/#/) library. 
 
-I am very excited about this project, and I have loved developing it so far! 
+The application will also feature a live chat system, of which I will need to implement web sockets. The application also has built-in pagination to give it the "infinite scroll" feel!
+
+I am *very* excited about this project, and I have loved developing it so far! 
 
 ## 🔎 What are my skills?
 
