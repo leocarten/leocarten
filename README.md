@@ -1,6 +1,6 @@
 ## 👋 Hi there  
 
-I'm Leo, a software engineer with an interest in Full Stack development and machine learning!
+I'm Leo, a young, talented, and curious software engineer with an interests in Full Stack development and Machine Learning!
 
 ## ✏️ About me
 
