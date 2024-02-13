@@ -1,12 +1,12 @@
 ## 👋 Hi there  
 
-I'm Leo, a young, talented, and curious software engineer with an interests in Full Stack development and Machine Learning!
+I'm Leo, a young, talented, and curious minded software engineer with an interest in Full Stack development and Machine Learning!
 
 ## ✏️ About me
 
 I have been **programming for 5 years**, both through my Bachelors degree in Computer Science (where I have earned a **3.81 GPA** and also studied Mathematics), and also because of my interests outside of school. I would certainly say that majority of my knowledge has come outside of the classroom, purely driven by my curiousity and interests. I have completed many side projects in my free-time truly because software engineering is a great passion of mine.
 
-I have 1 year of **professional experience** where I interned as a UI/UX developer at Aclara Technologies. I helped build a Desktop Application which was written in Python, and uses libraries such as customtkinter to interact with various softwares and databases. The goal of the Desktop App was to streamline the process for my co-workers and reduce manual labor. On top of the Desktop application, I also performed data validation and data cleaning using Python in conjunction with SQL
+I have 1 year of **professional software development experience** where I interned as a UI/UX developer at Aclara Technologies. I helped build a Desktop Application which was written in Python, and uses libraries such as customtkinter to interact with various softwares and databases. The goal of the Desktop App was to streamline the process for my co-workers and reduce manual labor. On top of the Desktop application, I also performed data validation and data cleaning using Python in conjunction with SQL
 
 ## 🚀 What am I currently working on?
 
@@ -38,3 +38,4 @@ I am *very* excited about this project, and I have loved developing it so far!
 
 * [LinkedIn](https://www.linkedin.com/in/leo-carten-925535195/)
 * [Articles I've written](https://www.linkedin.com/in/leo-carten-925535195/recent-activity/articles/)
+* [Project that I've completed](https://www.linkedin.com/in/leo-carten-925535195/details/projects/)
