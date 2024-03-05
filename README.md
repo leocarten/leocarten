@@ -39,3 +39,4 @@ I am *very* excited about this project, and I have loved developing it so far!
 * [LinkedIn](https://www.linkedin.com/in/leo-carten-925535195/)
 * [Articles I've written](https://www.linkedin.com/in/leo-carten-925535195/recent-activity/articles/)
 * [Project that I've completed](https://www.linkedin.com/in/leo-carten-925535195/details/projects/)
+* [🚀 View the chess playing robot my friends and I made!](https://www.youtube.com/watch?v=Yjk6EQus9sY)
