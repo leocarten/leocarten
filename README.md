@@ -1,6 +1,6 @@
 ## 👋 Hi there  
 
-I'm Leo, a young, talented, and curious minded software engineer with an interest in Full Stack development and Machine Learning!
+I'm Leo -- a young, talented, and curious minded software engineer with an interest in Full Stack development and Machine Learning!
 
 ## ✏️ About me
 
@@ -18,21 +18,12 @@ I am *very* excited about this project, and I have loved developing it so far!
 
 ## 🔎 What are my skills?
 
-* Full Stack development 
-* Front-end development
-* UI/UX (Tailwind + Bootstrap)
-* Back-end development
-* MySQL
-* Git
-* AWS
-* Node.js, Express.js
-* Server deployments
-* CI/CD
-* REST APIs
-* Python
-* Java
-* C/C++
-* Linux OS
+* **Full Stack development** (Data services and REST APIs, SQL, Server deployments, CI/CD)
+* **Front-end development** (React, Tailwind, Bootstrap)
+* **Back-end development** (Python, Java, C, C++, PHP, Ruby, NodeJS)
+* **Git**
+* **Cloud computing** (AWS, Digital Ocean)
+* **Linux OS**
 
 ## 🤝 Connect with me!
 
