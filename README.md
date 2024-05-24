@@ -35,6 +35,6 @@ I am *very* excited about this project, and I have loved developing it so far!
 
 ## 👾 Profile details
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=leocarten&theme=vue&show_icons=true)
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocarten&layout=compact&theme=vue&show_icons=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=leocarten&theme=vue&show_icons=true&rank_icon=github)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocarten&layout=donut&theme=vue&show_icons=true)
 
