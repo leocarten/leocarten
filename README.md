@@ -34,4 +34,6 @@ I am *very* excited about this project, and I have loved developing it so far!
 * [💻 View the programming competition I've created!](https://turing.plymouth.edu/~lmc1076/)
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=leocarten&theme=dark&show_icons=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=leocarten&theme=outrun&show_icons=true)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocarten&layout=compact&theme=outrun&show_icons=true)
+
