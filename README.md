@@ -25,6 +25,11 @@ I am *very* excited about this project, and I have loved developing it so far!
 * **Cloud computing** (AWS, Digital Ocean)
 * **Linux OS**
 
+## 👾 Profile details
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=leocarten&theme=vue&show_icons=true&rank_icon=github)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocarten&layout=donut&theme=vue&show_icons=true)
+
 ## 🤝 Connect with me!
 
 * [LinkedIn](https://www.linkedin.com/in/leo-carten-925535195/)
@@ -32,9 +37,3 @@ I am *very* excited about this project, and I have loved developing it so far!
 * [Project that I've completed](https://www.linkedin.com/in/leo-carten-925535195/details/projects/)
 * [🚀 View the chess playing robot my friends and I made!](https://www.youtube.com/watch?v=Yjk6EQus9sY)
 * [💻 View the programming competition I've created!](https://turing.plymouth.edu/~lmc1076/)
-
-## 👾 Profile details
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=leocarten&theme=vue&show_icons=true&rank_icon=github)
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocarten&layout=donut&theme=vue&show_icons=true)
-
